@@ -1,0 +1,111 @@
+/*CINE*/
+
+body{
+	background:#E1AD05;
+}
+
+#top{
+	font-size: 20px;
+	text-align: center;
+}
+#top a{
+	color: black;
+}
+
+#Sinopsis{
+	background: #6F0A81;
+}
+#Sinopsis .section_title{
+	font-size: 30px;
+	color:orange;
+	padding-left: 20px;
+	background-color: #000000;
+	font-family: 'Margarine', sans-serif;
+}
+#Sinopsis .section_text{
+	font-size: 20px;
+	font-family: serif;
+	color:#FFF;
+	width: 800px;
+	font-family: 'Roboto', sans-serif;
+}
+
+#Necesidades{
+	background: #6F0A81;
+}
+#Necesidades .section_title{
+	font-size: 30px;
+	color:orange;
+	padding-left: 20px;
+	background-color: #000000;
+	font-family: 'Margarine',sans-serif;
+}
+#Necesidades .section_text{
+	font-size: 20px;
+	font-family: serif;
+	color:#FFF;
+	width: 800px;
+	font-family: 'Roboto', sans-serif;
+}
+
+
+#Necesidades .need{
+
+	width: 750px;
+	height: 800px;
+	display: block;
+	float: left;
+	text-align: left;
+	color:#FFF;
+}
+
+#Tecnologias{
+	background: #6F0A81;
+	padding-top: 750px;
+	color:#FFF;
+}
+#Tecnologias .section_title{
+	font-size: 30px;
+	color:orange;
+	padding-left: 20px;
+	background-color: #000000;
+	font-family: 'Margarine', sans-serif;
+}
+#Tecnologias .section_text{
+	font-size: 20px;
+	font-family: serif;
+	color:#FFF;
+	width: 800px;
+	font-family: 'Roboto', sans-serif;
+}
+
+#Impacto{
+	background: #6F0A81;
+}
+#Impacto .section_title{
+	font-size: 30px;
+	color:orange;
+	padding-left: 20px;
+	background-color: #000000;
+	font-family: 'Margarine', sans-serif;
+}
+#Impacto .section_text{
+	font-size: 20px;
+	font-family: serif;
+	color:#FFF;
+	width: 800px;
+	font-family: 'Roboto', sans-serif;
+}
+
+#Referencias{
+	background: #6F0A81;
+	color:#FFF;
+
+}
+#Referencias .section_title{
+	font-size: 30px;
+	color:orange;
+	padding-left: 20px;
+	background-color: #000000;
+	font-family: 'Margarine', sans-serif;
+}

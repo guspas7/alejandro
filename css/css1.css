@@ -1,0 +1,91 @@
+/*TECNOLOGIAS*/
+
+body{
+  background-color: #E1E1E0;
+}
+
+#top{
+  text-align: left;
+  padding-left: 20px;
+  background-color: #E1E1E0;
+}
+#top a{
+  font-size: 25px;
+  color: #104102;
+}
+
+#Sinopsis h2{
+  background-color: #256307;
+  color: #E1E1E0;
+  padding-left: 40px;
+  font-size: 35px;
+}
+
+
+#Necesidades h2{
+  background-color: #256307;
+  color: #E1E1E0;
+  padding-left: 40px;
+  font-size: 35px;
+}
+#Necesidades h3{
+  color: #804000;
+  text-align: center;
+  font-size: 25px;
+}
+#Necesidades p{
+  color: #000000;
+  font-size: 18px;
+  text-align: center;
+}
+#Necesidades img{
+  padding-left: 580px;
+  padding-bottom: 20px;
+}
+#Necesidades iframe{
+  padding-left: 800px;
+  padding-bottom: 20px;
+}
+
+#Tecnologias h2{
+  background-color: #256307;
+  color: #E1E1E0;
+  padding-left: 40px;
+  font-size: 35px;
+}
+#Tecnologias h3{
+  color: #804000;
+  text-align: center;
+  font-size: 25px;
+}
+#Tecnologias p{
+  color: #000000;
+  font-size: 18px;
+  text-align: center;
+}
+
+#Impacto h2{
+  background-color: #256307;
+  color: #E1E1E0;
+  padding-left: 40px;
+  font-size: 35px;
+}
+#Impacto h3{
+  color: #804000;
+  text-align: center;
+  font-size: 25px;
+}
+#Impacto p{
+  color: #000000;
+  font-size: 18px;
+  text-align: center;
+}
+
+#Referencias{
+  text-align: center;
+}
+#Referencias h3{
+  color: #804000;
+  text-align: center;
+  font-size: 25px;
+}

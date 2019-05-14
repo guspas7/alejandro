@@ -1,0 +1,68 @@
+/*CIENCIA FICCION*/
+
+body{
+	background:#000;
+}
+
+/*CIENCIA FICCION*/
+
+#top{
+	text-align: left;
+	background-color: #A09B9B;
+	text-align: center;
+}
+#top a{
+  font-size: 20px;
+  color: red;
+  text-align: center;
+  font-weight: bold;
+}
+
+div h2{
+	background-color: #323030;
+	color: #FFFF00;
+	text-align: center;
+	font-size: 30px;
+}
+
+div h3{
+	color: #B81205;
+	text-align: left;
+	font-size: 23px;
+	padding-left: 60px;
+	padding-bottom: 10px;
+	font-family: cursive;
+}
+
+
+div p{
+	color: #DEA5A5;
+	text-align: left;
+	font-size: 15px;
+	font-family: cursive;
+}
+
+#Tecnologias{
+	
+	float: left;
+	display: block;
+	text-align: left;
+	width: 900px;
+	padding: 10px;
+}
+#Impacto{
+	
+	float: left;
+	display: block;
+	text-align: left;
+	width: 900px;
+	padding: 10px;
+}
+
+#Referencias .referencias{
+	text-align: center;
+}
+
+
+
+
